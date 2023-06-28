@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jibin James</h1>
-<h3 align="center">I am an aspiring Frontend Developer, seeking a fresher/internship position to learn and grow my skills. I have experience in building some basic React and Vanilla JS apps, with a solid understanding of coding principles and concepts, and responsive web design.</h3>
+<h3 align="center">I am an aspiring Frontend Developer, seeking to grow and learn new skills. I have experience in building some basic React and Vanilla JS apps, with a solid understanding of coding principles and concepts, and responsive web design.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
